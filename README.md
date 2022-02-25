@@ -19,7 +19,7 @@ The most prominent of them being [AWS Lambda Powertools](https://github.com/awsl
 
 ## 📫 How to reach me
 - Blog: https://medium.com/@isenberg-ran
-- Twitter: @IsenbergRan
+- Twitter: [@IsenbergRan](https://twitter.com/IsenbergRan)
 - LinkedIn: https://www.linkedin.com/in/ranisenberg/
 
 ![](https://komarev.com/ghpvc/?username=ran-isenberg)
