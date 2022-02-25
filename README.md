@@ -17,7 +17,7 @@ The most prominent of them being [AWS Lambda Powertools](https://github.com/awsl
 - 💬 Ask me about AWS Lambda and Serverless services
 - ⚡ Fun fact: I enjoy playing the electric guitar ;)
 
-## 📫 How to reach me:
+## 📫 How to reach me
 - Blog: https://medium.com/@isenberg-ran
 - Twitter: @IsenbergRan
 - LinkedIn: https://www.linkedin.com/in/ranisenberg/
