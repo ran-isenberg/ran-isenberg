@@ -4,13 +4,13 @@
 My name is Ran Isenberg. 
 I'm an [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/), a Cloud System Architect, a blogger, and a public speaker.
 
-I design and build Severless services on AWS for a living.
+I design and build Serverless services on AWS for a living.
 
 I love all things Serverless at AWS and maintain a [blog](https://medium.com/@isenberg-ran) where I share my knowledge and experience in the Serverless world.
 
 I'm a big believer in open-source projects and have donated several features to open-source projects. 
 
-The most prominent of them being [AWS Lambda Powertools](https://github.com/awslabs/aws-lambda-powertools-python).
+The most prominent of them is [AWS Lambda Powertools](https://github.com/awslabs/aws-lambda-powertools-python).
 
 ## What am I currently up to?
 - 🔭 I’m currently working on Serverless guides and best practices blogs. My current project is [AWS Lambda Handler template](https://github.com/ran-isenberg/aws-lambda-handler-cookbook).
