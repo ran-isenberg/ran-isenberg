@@ -2,7 +2,7 @@
 
 
 My name is Ran Isenberg. 
-I'm an [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/), a Cloud System Architect, a blogger, and a public speaker.
+I'm an [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/), a Cloud System Architect, a blogger: [Ran The Builder](https://www.ranthebuilder.cloud), and a public speaker.
 
 I design and build Serverless services on AWS for a living.
 
