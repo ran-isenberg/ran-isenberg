@@ -25,3 +25,6 @@ The most prominent of them is [AWS Lambda Powertools](https://github.com/awslabs
 - LinkedIn: https://www.linkedin.com/in/ranisenberg/
 
 ![](https://komarev.com/ghpvc/?username=ran-isenberg)
+
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ran-isenberg&show_icons=true)
