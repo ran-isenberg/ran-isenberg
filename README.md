@@ -6,7 +6,7 @@ I'm an [AWS Community Builder](https://aws.amazon.com/developer/community/commun
 
 I design and build Serverless services on AWS for a living.
 
-I love all things Serverless at AWS and maintain a [blog](https://medium.com/@isenberg-ran) where I share my knowledge and experience in the Serverless world.
+I love all things Serverless at AWS and maintain a [blog](https://www.ranthebuilder.cloud) where I share my knowledge and experience in the Serverless world.
 
 I'm a big believer in open-source projects and have donated several features to open-source projects. 
 
