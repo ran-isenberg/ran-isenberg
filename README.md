@@ -20,6 +20,7 @@ The most prominent of them is [AWS Lambda Powertools](https://github.com/awslabs
 - ⚡ Fun fact: I enjoy playing the electric guitar ;)
 
 ## 📫 How to reach me
+- Email: ran.isenberg@ranthebuilder.cloud
 - Blog: https://www.ranthebuilder.cloud
 - Twitter: [@IsenbergRan](https://twitter.com/IsenbergRan)
 - LinkedIn: https://www.linkedin.com/in/ranisenberg/
