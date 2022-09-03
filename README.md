@@ -2,9 +2,11 @@
 
 
 Ran Isenberg is an AWS Community Builder, a Principal Software Architect, a blogger, and a [public speaker](https://www.ranthebuilder.cloud/webinars).
+
 Ran designs and builds Serverless services on AWS for a living.
 
 Ran has vast experience designing Serverless applications and over ten years of hands-on software development.
+
 Ran maintains a blog (RanTheBuilder.cloud) where he shares his knowledge and experience in the Serverless world.
 
 Ran is an avid believer in open-source projects and has started an open-source [AWS Lambda best practices template project](https://github.com/ran-isenberg/aws-lambda-handler-cookbook) as part of his [AWS Lambda handler cookbook blog series](https://www.ranthebuilder.cloud/blog/categories/best-practices). 
