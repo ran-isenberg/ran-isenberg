@@ -1,18 +1,22 @@
 ### Hi there 👋
 
 
-My name is Ran Isenberg. 
-I'm an [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/), a Principal Software Architect, a blogger: [Ran The Builder](https://www.ranthebuilder.cloud), and a public speaker.
+Ran Isenberg is an AWS Community Builder, a Principal Software Architect, a blogger, and a public speaker.
+Ran designs and builds Serverless services on AWS for a living.
 
-I design and build Serverless services on AWS for a living.
+Ran has vast experience designing Serverless applications and over ten years of hands-on software development.
+Ran maintains a blog (RanTheBuilder.cloud) where he shares his knowledge and experience in the Serverless world.
 
-I love all things Serverless at AWS and maintain a [blog](https://www.ranthebuilder.cloud) where I share my knowledge and experience in the Serverless world.
+Ran is an avid believer in open-source projects and has started an open-source [AWS Lambda best practices template project](https://github.com/ran-isenberg/aws-lambda-handler-cookbook) as part of his [AWS Lambda handler cookbook blog series](https://www.ranthebuilder.cloud/blog/categories/best-practices). 
+He has also donated features to open-source projects such as AWS Lambda Powertools.
 
-I'm a big believer in open-source projects and have started open-source projects.
+On a personal note, Ran is a proud father of two boys, an amateur barista, and plays the electric guitar.
 
-I have also donated features to other open-source projects. The most prominent of them is [AWS Lambda Powertools](https://github.com/awslabs/aws-lambda-powertools-python).
-
-On a personal note, I'm a proud father of two boys, an amateur barista, and I play the electric guitar.
+Serverless blog: https://ranthebuilder.cloud
+Past webinars: https://www.ranthebuilder.cloud/webinars
+My GitHub: https://github.com/ran-isenberg
+Twitter: https://twitter.com/IsenbergRan
+LinkedIn: linkedin.com/in/ranisenberg/
 
 ## 📫 How to reach me
 - Email: ran.isenberg@ranthebuilder.cloud
