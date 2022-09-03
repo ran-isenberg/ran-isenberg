@@ -10,6 +10,7 @@ Ran has vast experience designing Serverless applications and over ten years of 
 Ran maintains a blog (RanTheBuilder.cloud) where he shares his knowledge and experience in the Serverless world.
 
 Ran is an avid believer in open-source projects and has started an open-source [AWS Lambda best practices template project](https://github.com/ran-isenberg/aws-lambda-handler-cookbook) as part of his [AWS Lambda handler cookbook blog series](https://www.ranthebuilder.cloud/blog/categories/best-practices). 
+
 He has also donated features to open-source projects such as AWS Lambda Powertools.
 
 On a personal note, Ran is a proud father of two boys, an amateur barista, and plays the electric guitar.
