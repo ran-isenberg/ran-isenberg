@@ -10,14 +10,9 @@ I love all things Serverless at AWS and maintain a [blog](https://www.ranthebuil
 
 I'm a big believer in open-source projects and have started open-source projects.
 
-I have donated features to other open-source projects. The most prominent of them is [AWS Lambda Powertools](https://github.com/awslabs/aws-lambda-powertools-python).
+I have also donated features to other open-source projects. The most prominent of them is [AWS Lambda Powertools](https://github.com/awslabs/aws-lambda-powertools-python).
 
-## What am I currently up to?
-- 🔭 I’m currently working on Serverless guides and best practices blogs. My current project is [AWS Lambda Handler template](https://github.com/ran-isenberg/aws-lambda-handler-cookbook).
-- 👯 I’m looking to collaborate on any Serverless knowledge sharing project, webinars, or blogs
-- 🤔 I’m looking for help with finding new research topics and blogs ideas
-- 💬 Ask me about AWS Lambda and Serverless services
-- ⚡ Fun fact: I enjoy playing the electric guitar ;)
+On a personal note, I'm a proud father of two boys, an amateur barista, and I play the electric guitar.
 
 ## 📫 How to reach me
 - Email: ran.isenberg@ranthebuilder.cloud
