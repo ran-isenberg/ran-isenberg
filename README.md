@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-Ran Isenberg is an AWS Community Builder, a Principal Software Architect, a blogger, and a [public speaker](https://www.ranthebuilder.cloud/webinars).
+Ran Isenberg is an AWS Community Builder, a Principal Software Architect, a [blogger](https://www.ranthebuilder.cloud), and a [public speaker](https://www.ranthebuilder.cloud/webinars).
 
 Ran designs and builds Serverless services on AWS for a living.
 
