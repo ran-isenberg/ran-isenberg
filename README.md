@@ -23,3 +23,4 @@ On a personal note, Ran is a proud father of two boys, an amateur barista, and p
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ran-isenberg&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ran-isenberg&theme=dracula)
