@@ -22,4 +22,4 @@ On a personal note, Ran is a proud father of two boys, an amateur barista, and p
 - LinkedIn: https://www.linkedin.com/in/ranisenberg/
 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ran-isenberg&show_icons=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ran-isenberg&theme=dracula)
