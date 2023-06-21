@@ -6,7 +6,7 @@ Ran is a serverless advocate passionate about CI/CD and AWS CDK.
  
 Ran maintains a [blog](https://www.ranthebuilder.cloud/) where he shares his knowledge and experience in the serverless world and thoughts about technology in general.
   
-Ran contributed several utilities to the [AWS Lambda Powertools](https://github.com/awslabs/aws-lambda-powertools-python) open-source project and maintains numerous serverless related open-source projects on his GitHub account. 
+Ran contributed several utilities to the [AWS Lambda Powertools](https://github.com/aws-powertools/powertools-lambda-python) open-source project and maintains numerous serverless relate open-source projects on his GitHub account. 
 One of these projects is the [AWS Lambda cookbook](https://github.com/ran-isenberg/aws-lambda-handler-cookbook) – a serverless service template that gets you started in the serverless world with all the best practices in seconds.
  
 Ran shares his knowledge at dozens of conferences, podcasts, webinars, and meetups and publishes the recordings on his blog. 
