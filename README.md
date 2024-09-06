@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/IsenbergRan?label=Follow&style=social)](https://twitter.com/IsenbergRan)
+[![Twitter Follow](https://img.shields.io/twitter/follow/IsenbergRan?label=Follow&style=social)](https://twitter.com/RanBuilder)
 [![Website](https://img.shields.io/badge/Website-www.ranthebuilder.cloud-blue)](https://www.ranthebuilder.cloud/)
 
 
@@ -21,8 +21,8 @@ On a personal note, Ran is a proud father of two boys, an amateur barista, and p
 ## 📫 How to reach me
 - Email: ran.isenberg@ranthebuilder.cloud
 - Blog: https://www.ranthebuilder.cloud
-- Twitter: [@IsenbergRan](https://twitter.com/IsenbergRan)
-- LinkedIn: https://www.linkedin.com/in/ranisenberg/
+- Twitter: [@RanBuilder](https://twitter.com/RanBuilder)
+- LinkedIn: https://www.linkedin.com/in/ranbuilder/
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ran-isenberg&theme=dracula)
