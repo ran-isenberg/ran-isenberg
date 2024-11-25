@@ -21,7 +21,8 @@ On a personal note, Ran is a proud father of two boys, an amateur barista, and p
 ## 📫 How to reach me
 - Email: ran.isenberg@ranthebuilder.cloud
 - Blog: https://www.ranthebuilder.cloud
-- Twitter: [@RanBuilder](https://twitter.com/RanBuilder)
+- Bluesky: [@ranthebuilder.bsky.social](https://bsky.app/profile/ranthebuilder.bsky.social)
+- X:       [@RanBuilder](https://twitter.com/RanBuilder)
 - LinkedIn: https://www.linkedin.com/in/ranbuilder/
 
 
