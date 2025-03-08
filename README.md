@@ -7,7 +7,7 @@
 
 Ran Isenberg is an [AWS Serverless Hero](https://aws.amazon.com/developer/community/heroes/ran-isenberg/), a Principal Software Architect at CyberArk, and a [consultant specializing in Platform Engineering and Serverless](https://www.ranthebuilder.cloud).
 
-Ran maintains a [blog](https://www.ranthebuilder.cloud/) where he shares his knowledge and speaking sessions.
+Ran maintains a website - [RanTheBuilder.cloud](https://www.ranthebuilder.cloud/) where he shares his knowledge and speaking sessions.
   
 Ran contributed several utilities to the [AWS Lambda Powertools](https://github.com/aws-powertools/powertools-lambda-python) open-source project and maintains numerous serverless relate open-source projects on his GitHub account. 
 
