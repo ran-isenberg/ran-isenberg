@@ -4,18 +4,15 @@
 [![Website](https://img.shields.io/badge/Website-www.ranthebuilder.cloud-blue)](https://www.ranthebuilder.cloud/)
 
 
-Ran Isenberg is an [AWS Serverless Hero](https://aws.amazon.com/developer/community/heroes/ran-isenberg/), a Principal Software Architect at CyberArk, a [blogger](https://www.ranthebuilder.cloud), and a [global public speaker](https://www.ranthebuilder.cloud/videos).
+Ran Isenberg is an [AWS Serverless Hero](https://aws.amazon.com/developer/community/heroes/ran-isenberg/), a Principal Software Architect at CyberArk, and a [consultant specializing in Platform Engineering and Serverless](https://www.ranthebuilder.cloud).
 
-He has given dozens of [talks](https://www.ranthebuilder.cloud/videos) at international conferences, including AWS re:Invent, AWS summits, and DevOps Days.
-
-Ran is a serverless advocate passionate about CI/CD and AWS CDK.
- 
-Ran maintains a [blog](https://www.ranthebuilder.cloud/) where he shares his knowledge and experience in the serverless world and thoughts about technology in general.
+Ran maintains a [blog](https://www.ranthebuilder.cloud/) where he shares his knowledge and speaking sessions.
   
 Ran contributed several utilities to the [AWS Lambda Powertools](https://github.com/aws-powertools/powertools-lambda-python) open-source project and maintains numerous serverless relate open-source projects on his GitHub account. 
+
 One of these projects is the [AWS Lambda cookbook](https://github.com/ran-isenberg/aws-lambda-handler-cookbook) – a serverless service template that gets you started in the serverless world with all the best practices in seconds.
- 
-Ran shares his knowledge at dozens of conferences, podcasts, webinars, and meetups and publishes the recordings on his blog. 
+
+Another project is the [aws-lambda-env-modeler](https://github.com/ran-isenberg/aws-lambda-env-modeler), a Python library designed to simplify the process of managing and validating environment variables in your AWS Lambda functions.
  
 On a personal note, Ran is a proud father of two boys, an amateur barista, and plays the electric guitar.
 
