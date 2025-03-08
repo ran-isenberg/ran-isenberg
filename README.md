@@ -9,7 +9,7 @@ Ran Isenberg is an [AWS Serverless Hero](https://aws.amazon.com/developer/commun
 
 Ran maintains a website - [RanTheBuilder.cloud](https://www.ranthebuilder.cloud/) where he shares his knowledge and speaking sessions.
   
-Ran contributed several utilities to the [AWS Lambda Powertools](https://github.com/aws-powertools/powertools-lambda-python) open-source project and maintains numerous serverless relate open-source projects on his GitHub account. 
+Ran contributed several utilities to the [Powertools for AWS Lambda](https://github.com/aws-powertools/powertools-lambda-python) open-source project and maintains numerous serverless relate open-source projects on his GitHub account. 
 
 One of these projects is the [AWS Lambda cookbook](https://github.com/ran-isenberg/aws-lambda-handler-cookbook) – a serverless service template that gets you started in the serverless world with all the best practices in seconds.
 
