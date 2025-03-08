@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/IsenbergRan?label=Follow&style=social)](https://twitter.com/RanBuilder)
+[![Twitter Follow](https://img.shields.io/twitter/follow/IsenbergRan?label=Follow&style=social)](https://x.com/RanBuilder)
 [![Website](https://img.shields.io/badge/Website-www.ranthebuilder.cloud-blue)](https://www.ranthebuilder.cloud/)
-
+[![Linkedin](https://i.sstatic.net/gVE0j.png)LinkedIn](https://www.linkedin.com/in/ranbuilder/)
+&nbsp;
 
 Ran Isenberg is an [AWS Serverless Hero](https://aws.amazon.com/developer/community/heroes/ran-isenberg/), a Principal Software Architect at CyberArk, and a [consultant specializing in Platform Engineering and Serverless](https://www.ranthebuilder.cloud).
 
