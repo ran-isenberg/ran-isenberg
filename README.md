@@ -7,7 +7,7 @@
 
 Ran Isenberg is an [AWS Serverless Hero](https://aws.amazon.com/developer/community/heroes/ran-isenberg/), a Principal Software Architect at CyberArk, and a [consultant specializing in Platform Engineering and Serverless](https://www.ranthebuilder.cloud).
 
-With 15+ years of experience in software development and security, Ran has spent the last 5+ years designing and building customer-facing SaaS Serverless services, ensuring the highest production readiness and security standards.
+With 15+ years of experience in software development and security, Ran has spent the last 6+ years designing and building customer-facing SaaS Serverless services, ensuring the highest production readiness and security standards.
 
 Ran maintains a website - [RanTheBuilder.cloud](https://www.ranthebuilder.cloud/) where he shares his knowledge and speaking sessions.
   
