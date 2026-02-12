@@ -5,7 +5,7 @@
 [![Linkedin](https://i.sstatic.net/gVE0j.png)LinkedIn](https://www.linkedin.com/in/ranbuilder/)
 &nbsp;
 
-Ran Isenberg is an [AWS Serverless Hero](https://aws.amazon.com/developer/community/heroes/ran-isenberg/), a Principal Software Architect at CyberArk, and a [consultant specializing in Platform Engineering and Serverless](https://www.ranthebuilder.cloud).
+Ran Isenberg is an [AWS Serverless Hero](https://aws.amazon.com/developer/community/heroes/ran-isenberg/), a Principal Software Architect at [Palo Alto Networks](https://www.paloaltonetworks.com/), and a [consultant specializing in Platform Engineering and Serverless](https://www.ranthebuilder.cloud).
 
 With 15+ years of experience in software development and security, Ran has spent the last 6+ years designing and building customer-facing SaaS Serverless services, ensuring the highest production readiness and security standards.
 
@@ -21,10 +21,10 @@ On a personal note, Ran is a proud father of two boys, an amateur barista, and p
 
 
 ## 📫 How to reach me
-- Email: ran.isenberg@ranthebuilder.cloud
-- Blog: https://www.ranthebuilder.cloud
-- Bluesky: [@ranthebuilder.cloud](https://bsky.app/profile/ranthebuilder.cloud)
-- X:       [@RanBuilder](https://twitter.com/RanBuilder)
+- Email:    ran.isenberg@ranthebuilder.cloud
+- Blog:     https://www.ranthebuilder.cloud
+- Bluesky:  [@ranthebuilder.cloud](https://bsky.app/profile/ranthebuilder.cloud)
+- X:        [@RanBuilder](https://twitter.com/RanBuilder)
 - LinkedIn: https://www.linkedin.com/in/ranbuilder/
 
 
