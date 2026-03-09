@@ -5,11 +5,11 @@
 [![Linkedin](https://i.sstatic.net/gVE0j.png)LinkedIn](https://www.linkedin.com/in/ranbuilder/)
 &nbsp;
 
-Ran Isenberg is an [AWS Serverless Hero](https://aws.amazon.com/developer/community/heroes/ran-isenberg/), a Principal Software Architect at [Palo Alto Networks](https://www.paloaltonetworks.com/), and a [consultant specializing in Platform Engineering and Serverless](https://www.ranthebuilder.cloud).
+Ran Isenberg is an [AWS Serverless Hero](https://aws.amazon.com/developer/community/heroes/ran-isenberg/), a Principal Software Architect at [Palo Alto Networks](https://www.paloaltonetworks.com/), and a [consultant specializing in Platform Engineering and Serverless](https://ranthebuilder.cloud).
 
 With 15+ years of experience in software development and security, Ran has spent the last 6+ years designing and building customer-facing SaaS Serverless services, ensuring the highest production readiness and security standards.
 
-Ran maintains a website - [RanTheBuilder.cloud](https://www.ranthebuilder.cloud/) where he shares his knowledge and speaking sessions.
+Ran maintains a website - [RanTheBuilder.cloud](https://ranthebuilder.cloud/) where he shares his knowledge and speaking sessions.
   
 Ran contributed several utilities to the [Powertools for AWS Lambda](https://github.com/aws-powertools/powertools-lambda-python) open-source project and maintains numerous serverless relate open-source projects on his GitHub account. 
 
