@@ -33,6 +33,11 @@ I offer consulting on **Serverless architecture**, **Platform Engineering**, and
 ## ✍️ Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Didn’t Wait for Security. Now What?](https://ranthebuilder.cloud/blog/ai-didn-t-wait-for-security-now-what/)
+- [Claude Built My Wix Website in 3 Hours - Is SaaS Dead?](https://ranthebuilder.cloud/blog/claude-built-my-wix-website-in-3-hours-is-saas-dead/)
+- [Product Ownership in Practice: Beyond Processes and Backlogs](https://ranthebuilder.cloud/blog/product-ownership-in-practice-beyond-processes-and-backlogs/)
+- [AI-Driven SDLC: Build Secure, Scalable Software with AI](https://ranthebuilder.cloud/blog/ai-driven-sdlc/)
+- [Build Open Source Software Developers Want to Use](https://ranthebuilder.cloud/blog/how-to-build-open-source-projects-developers-actually-want-to-use/)
 <!-- BLOG-POST-LIST:END -->
 
 → [See all posts](https://ranthebuilder.cloud/blog/)
