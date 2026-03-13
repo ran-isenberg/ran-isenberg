@@ -1,0 +1,27 @@
+name: Update Blog Posts
+
+on:
+    schedule:
+        # Runs every day at 08:00 UTC
+        - cron: "0 8 * * *"
+    workflow_dispatch: # allows manual trigger from GitHub UI
+
+jobs:
+    update-readme:
+        name: Update README with latest blog posts
+        runs-on: ubuntu-latest
+        permissions:
+            contents: write
+
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
+
+            - name: Pull latest blog posts from RSS feed
+              uses: gautamkrishnar/blog-post-workflow@6a6e64abd1f651445da8e59611d0ca0110979aa5 # v1
+              with:
+                  feed_list: "https://ranthebuilder.cloud/blog-feed.xml"
+                  max_post_count: 5
+                  readme_path: README.md
+                  comment_tag_name: BLOG-POST-LIST
+                  gh_token: ${{ secrets.GITHUB_TOKEN }}
