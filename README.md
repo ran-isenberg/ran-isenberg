@@ -33,11 +33,11 @@ I offer consulting on **Serverless architecture**, **Platform Engineering**, and
 ## ✍️ Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Prevent Sensitive Data Leaks in Amazon CloudWatch Logs](https://ranthebuilder.cloud/blog/prevent-sensitive-data-leaks-in-amazon-cloudwatch-logs/)
 - [Claude Code Best Practices: Lessons From Real Projects](https://ranthebuilder.cloud/blog/claude-code-best-practices-lessons-from-real-projects/)
 - [AI Didn’t Wait for Security. Now What?](https://ranthebuilder.cloud/blog/ai-didn-t-wait-for-security-now-what/)
 - [Claude Built My Wix Website in 3 Hours - Is SaaS Dead?](https://ranthebuilder.cloud/blog/claude-built-my-wix-website-in-3-hours-is-saas-dead/)
 - [Product Ownership in Practice: Beyond Processes and Backlogs](https://ranthebuilder.cloud/blog/product-ownership-in-practice-beyond-processes-and-backlogs/)
-- [AI-Driven SDLC: Build Secure, Scalable Software with AI](https://ranthebuilder.cloud/blog/ai-driven-sdlc/)
 <!-- BLOG-POST-LIST:END -->
 
 → [See all posts](https://ranthebuilder.cloud/blog/)
