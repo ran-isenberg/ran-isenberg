@@ -15,13 +15,14 @@ jobs:
 
         steps:
             - name: Checkout repository
-              uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
+              uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
 
             - name: Pull latest blog posts from RSS feed
-              uses: gautamkrishnar/blog-post-workflow@6a6e64abd1f651445da8e59611d0ca0110979aa5 # v1
+              uses: gautamkrishnar/blog-post-workflow@2786e54a01b71aec80a5118c2bd6b5044e842597 # 1.9.6
               with:
                   feed_list: "https://ranthebuilder.cloud/blog-feed.xml"
                   max_post_count: 5
                   readme_path: README.md
                   comment_tag_name: BLOG-POST-LIST
                   gh_token: ${{ secrets.GITHUB_TOKEN }}
+
