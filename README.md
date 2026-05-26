@@ -6,7 +6,7 @@
 [![Bluesky](https://img.shields.io/badge/Bluesky-ranthebuilder.cloud-0285FF?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/ranthebuilder.cloud)
 [![X](https://img.shields.io/badge/X-RanBuilder-000000?style=flat&logo=x&logoColor=white)](https://x.com/RanBuilder)
 
-I'm a Principal Software Architect at [Palo Alto Networks](https://www.paloaltonetworks.com/) and a [consultant specializing in Platform Engineering and Serverless](https://ranthebuilder.cloud). With 15+ years in software development and security, I've spent the last 6+ years designing and building customer-facing SaaS serverless services — with a focus on production readiness and security.
+I'm a Senior Principal Software Architect at [Palo Alto Networks](https://www.paloaltonetworks.com/) and a [consultant specializing in AI adotpion, Platform Engineering and Serverless](https://ranthebuilder.cloud). With 15+ years in software development and security, I've spent the last 6+ years designing and building customer-facing SaaS serverless services — with a focus on production readiness and security.
 
 I write about everything I build at **[RanTheBuilder.cloud](https://ranthebuilder.cloud/)**.
 
@@ -16,7 +16,7 @@ Outside of work: proud father of two, amateur barista, electric guitar player.
 
 ## 🤝 Work With Me
 
-I offer consulting on **Serverless architecture**, **Platform Engineering**, and **SaaS on AWS** — design reviews, adoption strategy, whiteboarding sessions, and ongoing advisory.
+I offer consulting on **AI adoption**, **Serverless architecture**, **Platform Engineering**, and **SaaS on AWS** — design reviews, adoption strategy, whiteboarding sessions, and ongoing advisory.
 
 **[Book a session →](https://ranthebuilder.cloud/services/)**
 
