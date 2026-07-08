@@ -33,11 +33,11 @@ I offer consulting on **AI adoption**, **Serverless architecture**, **Platform E
 ## ✍️ Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Guide to AWS re:Invent 2026 - Tips &amp; Tricks](https://ranthebuilder.cloud/blog/guide-to-aws-re-invent-2025-tips-tricks/)
 - [Agentic Coding Hooks: Deterministic AI Guardrails](https://ranthebuilder.cloud/blog/agentic-coding-hooks-deterministic-ai-guardrails/)
 - [AI Changed the Engineer’s Job. Here’s How to Adapt](https://ranthebuilder.cloud/blog/ai-changed-the-engineer-s-job-here-s-how-to-adapt/)
 - [AI Changed How We Build. Our Tools Didn’t.](https://ranthebuilder.cloud/blog/ai-changed-how-we-build-our-tools-didn-t/)
 - [Is AWS Lambda Tenant Isolation Mode Enough for SaaS?](https://ranthebuilder.cloud/blog/is-aws-lambda-tenant-isolation-mode-enough-for-saas/)
-- [How I Use Claude Cowork To Write With AI In My Voice](https://ranthebuilder.cloud/blog/how-i-use-claude-cowork-to-write-with-ai-in-my-voice/)
 <!-- BLOG-POST-LIST:END -->
 
 → [See all posts](https://ranthebuilder.cloud/blog/)
