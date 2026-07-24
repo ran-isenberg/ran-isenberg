@@ -15,7 +15,7 @@ jobs:
 
         steps:
             - name: Checkout repository
-              uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+              uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
             - name: Pull latest blog posts from RSS feed
               uses: gautamkrishnar/blog-post-workflow@2786e54a01b71aec80a5118c2bd6b5044e842597 # 1.9.6
@@ -25,4 +25,5 @@ jobs:
                   readme_path: README.md
                   comment_tag_name: BLOG-POST-LIST
                   gh_token: ${{ secrets.GITHUB_TOKEN }}
+                  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
 
