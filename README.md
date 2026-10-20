@@ -33,11 +33,11 @@ I offer consulting on **AI adoption**, **Serverless architecture**, **Platform E
 ## ✍️ Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What Is AWS Lambda in 2026? 5 Flavors Explained](https://ranthebuilder.cloud/blog/what-is-aws-lambda-in-2026-5-flavors-explained/)
 - [How to Deploy AWS Lambda Managed Instances with CDK](https://ranthebuilder.cloud/blog/how-to-deploy-aws-lambda-managed-instances-with-cdk/)
 - [AWS re:Invent 2026: My Selection of Sessions](https://ranthebuilder.cloud/blog/aws-re-invent-2026-my-selection-of-sessions/)
 - [AWS Community Day DACH 2026: Community, AI, and Friends](https://ranthebuilder.cloud/blog/aws-community-day-dach-2026-community-ai-and-friends/)
 - [Prose as Code: Applying Formal Verification to Product Specs](https://ranthebuilder.cloud/blog/prose-as-code-applying-formal-verification-to-product-specs/)
-- [AWS Lambda Managed Instances: My Impressions and Tradeoffs](https://ranthebuilder.cloud/blog/aws-lambda-managed-instances-my-impressions-and-tradeoffs/)
 <!-- BLOG-POST-LIST:END -->
 
 → [See all posts](https://ranthebuilder.cloud/blog/)
